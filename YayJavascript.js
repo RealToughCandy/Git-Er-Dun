@@ -3,4 +3,4 @@ things about JavaScript. Besides, we don't really need it with this Web 1.0 aest
 I need you to remove this entire file.
 In other words, I need to let my boss know who to blame when he changes his mind on this!
 Now go Git 'er done!
--Mr. Kroppenduckel */
+-Ms. Kroppenduckel */
