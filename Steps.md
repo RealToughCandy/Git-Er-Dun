@@ -59,5 +59,5 @@ equally (or perhaps even more) effective?
 
 Stuck or need help? Check out the completed project here:
 
-If you enjoyed this challenge, please let me know! Please also let me know what I could do better to maximize your learning experience. Would you like to see more scenarios with a greater variety and more advanced Git commands? Additional roles for additional devs? Dish: @realtoughcandy realtougcandy@gmail.com
+If you enjoyed this challenge, please let me know! Please also let me know what I could do better to maximize your learning experience. Would you like to see more scenarios with a greater variety and more advanced Git commands? Additional roles for additional devs? Dish: @realtoughcandy realtoughcandy@gmail.com
 ===============================
