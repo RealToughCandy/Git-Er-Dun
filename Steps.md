@@ -2,8 +2,9 @@
 **Step 1.** (Dev 1, Dev 2) Elliot Rockababy, founder and lead developer of Rockababy-Kroppenduckel, has just sent you
 an email. "I have a bunch of files for our new site," it reads. "I need u and ur dev partner
 to clone my repo and get to work." Despite Mr. Rockababy's poor grammar, he believes in
-dev accountability. The name of the repo is Git-R-Dun and he has conveniently sent you a link:
+dev accountability. The name of the repo is Git-R-Dun and he has conveniently sent you a link: https://github.com/FlamboyantRockababy/Git-Er-Dun.git
 
+### From here, you will using the Rockababy-Kroppenduckel Industries (RKI) Organization on Github to push and pull the repo. Refer to the Readme.md for more information on how to obtain access to this org. ###
 
 **Step 2.** (Dev 1 & Dev 2) After the project is on your local machine, take a quick look at all three files. Mr. Rockababy has instructed you to proceed with the instructions in the JavaScript file; there is an important note from company co-founder Pamela Kroppenduckel.
 
