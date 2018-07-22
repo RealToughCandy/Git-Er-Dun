@@ -2,9 +2,9 @@
 ### Created by RealToughCandy (realtoughandy@gmail.com) ###
 Scenario Title: “No Good Dev Goes Unpunished”
 
-Team: 2 people
+Team: 2 people.
 
-Level: Beginner
+Level: Beginner.
 
 Prerequisites: Basic understanding of HTML & CSS, Git commands, and Slack.
 
