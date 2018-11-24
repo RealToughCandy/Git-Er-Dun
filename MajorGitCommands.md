@@ -34,7 +34,7 @@ Merges one or more branches into your current branch and automatically creates a
 Resets your index and working directory to the state of your last commit. Example: git reset --hard HEAD
 
 # git stash #
-Temporarily saves changes that you don’t want to commit immediately. You can apply the changes later. Example: git stash Saved working directory and index state "WIP on master: 84f241e first commit" HEAD is now at 84f241e first commit (To restore them type "git stash apply")
+Temporarily saves changes that you don’t want to commit immediately. (You can apply the changes later.) Example: git stash Saved working directory and index state "WIP on master: 84f241e first commit" HEAD is now at 84f241e first commit (To restore them type "git stash apply")
 
 # git tag #
 Tags a specific commit with a simple, human readable handle that never moves. Example: git tag -a v1.0 -m 'this is version 1.0 tag'
