@@ -31,7 +31,7 @@ E. Don't know how to construct a good commit message? <a href="https://robots.th
 ## LET'S GET STARTED! ##
 ------------------
 
-### Synopsis: Rockababy-Kroppenduckel Industries (RKI) is a full-service digital agency. You have been hired as a remote employee, tasked with giving the company’s home page some flavor with the help of a fellow remote worker. You two must use Git in conjunction with Github and Slack. ###
+### Synopsis: Rockababy-Kroppenduckel Industries (RKI) is a full-service digital agency. You have been hired as a remote employee, tasked with giving the company’s home page some flavor with the help of a fellow remote worker. You two must use Git in conjunction with GitHub and Slack. ###
 
 Instructions: Pick your character and follow the steps in the Steps.md file.
 For example, both Dev 1 and Dev 2 complete Steps 1 and 2, while only Dev 1 completes Step 3.
